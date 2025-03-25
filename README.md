@@ -24,7 +24,7 @@ It is particularly useful in domains like **fashion**, where user preferences sp
 
 ### 🌐 Frontend
 - Located in the `/frontend` folder.
-- Simple UI built with HTML/CSS/JavaScript (or React, if applicable).
+- Simple UI built with React.
 - Allows users to upload images and type in queries.
 
 ### 📁 Data
