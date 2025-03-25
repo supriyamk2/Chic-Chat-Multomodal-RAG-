@@ -16,6 +16,21 @@ This project demonstrates how to build an AI system that:
 It is particularly useful in domains like **fashion**, where user preferences span **both visual and descriptive attributes**.
 
 ---
+## 🧩 Components
+
+### 📂 Backend
+- `app.py`: Flask server that handles API requests.
+- `rag_final.py`: Core RAG pipeline — retrieves relevant documents/images and generates responses.
+
+### 🌐 Frontend
+- Located in the `/frontend` folder.
+- Simple UI built with HTML/CSS/JavaScript (or React, if applicable).
+- Allows users to upload images and type in queries.
+
+### 📁 Data
+- `data/` and `dataset/`: Contain sample multimodal content (images and text).
+- Vector representations are created using CLIP and stored for efficient retrieval.
+---
 
 ## ✨ Features
 
